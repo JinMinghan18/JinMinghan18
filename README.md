@@ -4,7 +4,7 @@
 
 🌱A Loyal Java users but learning bigdata now like hadoop
 
-💬Need any Help ,u can reach me throw my email J1099461301@gmail.com
+💬Need any help ,u can reach me throw my email J1099461301@gmail.com
 
 
 
