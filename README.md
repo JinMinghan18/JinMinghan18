@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, Crazy Jin there 👋
+
+🔭I'm Currently studying at ZJUT
+
+🌱A Loyal Java users but learning bigdata now like hadoop
+
+💬Need any Help ,u can reach me throw my email J1099461301@gmail.com
+
+
 
 <!--
 **JinMinghan18/JinMinghan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
