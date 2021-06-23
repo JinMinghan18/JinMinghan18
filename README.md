@@ -2,9 +2,9 @@
 
 🔭I'm Currently studying at ZJUT
 
-🌱A Loyal Java users but learning bigdata now like hadoop
+🌱A Loyal Java user but learning bigdata now like hadoop
 
-💬Need any help ,u can reach me throw my email J1099461301@gmail.com
+💬Need any help ,u can reach me through my email J1099461301@gmail.com
 
 
 
